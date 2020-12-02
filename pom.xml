@@ -32,11 +32,7 @@
             <artifactId>junit-jupiter-api</artifactId>
             <version>5.6.3</version>
         </dependency>
-        <dependency>
-            <groupId>org.jdbi</groupId>
-            <artifactId>jdbi</artifactId>
-            <version>2.78</version>
-        </dependency>
+
         <dependency>
             <groupId>org.jdbi</groupId>
             <artifactId>jdbi3-core</artifactId>
@@ -47,6 +43,7 @@
             <artifactId>jdbi3-sqlobject</artifactId>
             <version>3.17.0</version>
         </dependency>
+
 
         <dependency>
             <groupId>org.assertj</groupId>
